@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+*.pyc
+__pycache__/
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Mac OS
+.DS_Store
+
+# Environment Variables
+.env
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Heroku
+*.sqlite3
